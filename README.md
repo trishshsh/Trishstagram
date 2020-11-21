@@ -38,7 +38,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-#-------------------------
 
 # Project 3 Part 1 - *Trishstagram (Instagram Clone)*
 
